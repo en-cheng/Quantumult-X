@@ -599,4 +599,4 @@ DOMAIN,download.jetbrains.com,Mainland
 IP-CIDR,1.255.62.0/24,Mainland
 
 # GeoIP China
-GEOIP,CN,Mainland
+# GEOIP,CN,Mainland
