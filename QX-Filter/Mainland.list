@@ -18,7 +18,7 @@ HOST-SUFFIX,blizzard.com,Mainland
 # > Prior
 HOST,client.amplifi.com,Mainland
 HOST-SUFFIX,alphassl.com,Mainland
-HOST-SUFFIX,edu.cn,Mainland
+
 
 # > Steam
 HOST-SUFFIX,steamcontent.com,Mainland
