@@ -616,15 +616,3 @@ IP-CIDR,1.255.62.0/24,Mainland
 # GEOIP 
 GEOIP,CN,Mainland
 
-# 解锁网易云音乐无版权问题
-user-agent, NeteaseMusic**, 🎸 网易云音乐
-user-agent, NeteaseMusic*, 🎸 网易云音乐
-host-suffix, music.163.com, 🎸 网易云音乐
-host-suffix, music.126.net, 🎸 网易云音乐
-ip-cidr, 59.111.181.0/24, 🎸 网易云音乐
-ip-cidr, 115.236.118.0/24, 🎸 网易云音乐
-ip-cidr, 223.252.199.0/24, 🎸 网易云音乐
-host-keyword, netease, 🎸 网易云音乐
-user-agent, wyy.edu.bid, 🎸 网易云音乐
-user-agent, %E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*, 🎸 网易云音乐
-user-agent, %E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90**, 🎸 网易云音乐
