@@ -1,4 +1,8 @@
 /*
+@supported A087007DC6F4
+*/
+
+/*
 Splice app unlock pro.
 
 Surge4.0:
