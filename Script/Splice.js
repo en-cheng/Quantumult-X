@@ -1,5 +1,5 @@
-/*
-@supported A087007DC6F4
+/**
+* @supported A087007DC6F4
 */
 
 /*
